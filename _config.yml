@@ -1,7 +1,7 @@
 # Site settings
 title: Joy Learning Centre
-email: kurnialimanta@yahoo.com
-url: https://joylearning.github.io
+email: ekoeditaa@gmail.com
+url: https://ekoeditaa.github.io/joylearning
 description: "Tempat belajar, bermain, dan bertumbuh"
 keywords: "your keywords, separated by commas"
 skills: "Tempat belajar, bermain, dan bertumbuh"
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
